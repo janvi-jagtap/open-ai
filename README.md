@@ -1,1 +1,1 @@
-# open-ai
+# My OpenAI repository 
